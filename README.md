@@ -8,8 +8,6 @@
 
 
 
-
-
-[Link](url) and ![Image](src)
+src = ""
 
 
