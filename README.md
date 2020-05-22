@@ -2,7 +2,7 @@
 
 # My Portfolio
 
-<img src = "Bio-Photo.jpeg" width="100">
+![Profile](Bio-Photo.jpeg = 250x250)
 ## Projects
 
 
