@@ -2,7 +2,7 @@
 
 # My Portfolio
 
-![](bio-photo.jpg)
+![](Bio-Photo.jpeg)
 ## Projects
 
 
