@@ -1,6 +1,0 @@
-
-
-# My Portfolio
-
-
-## Projects
