@@ -22,4 +22,14 @@ Computer Vision for detecting cups, Path Planning to aim at cups and a custom en
 ### Multistage Amplifier Design
 Common Source-Common Gate-Common Drain stages are connected 97.5V/V midband gain with a 3V peak-to- peak output swing and 80Hz - 350kHz bandwidth are established. BS170 NMOS transistor and BS250 PMOS transistor are used.
 
+### SIXTEEN Robot Car
+Built bottom-up a voice-controlled car using the Arduino IDE and a Texas Instruments Launchpad.
+Assembled a mic-board, built the whole circuit system, created a closed-loop feedback controlled algorithm, and
+used least squares to optimize the performance of the motors.
+Voice-detection and word-classification for the voice control feature are done using PCA and SVD methods.
+
+### BearMaps
+Developed the back-end of a mapping application of Berkeley using Java, Apache Maven, and images downloa- ded from OpenStreetMap.
+Created a quad tree to filter through thousands of images and raster the appropriate ones into the front end. It can handle features such as moving the screen by dragging, zooming in/out, and double clicking two points to find the shortest path.
+Employed A* (A star) algorithm using a priority queue to find the shortest path between two given points.
 
