@@ -16,7 +16,7 @@ Designing all analog components including 8 bit successive-approximation analog 
 Designing a 3-stage pipelined RISC-V CPU with a UART for tethering on Xilinx Pynq platform. On top of this CPU, audio synthesizer is implemented with PWM Controller, FIFO and a simple polyphonic subtractive synthe- sizer with amplitude (ADSR) envelopes.
 
 ### C.H.A.D. Robot
-Design and control of a Baxter robot using ROS to play Beer Pong. [link to Website](https://chad-bot.github.io/Beer- Pong/)
+Design and control of a Baxter robot using ROS to play Beer Pong.[link to Website](https://chad-bot.github.io/Beer-Pong)
 Computer Vision for detecting cups, Path Planning to aim at cups and a custom end effector design are achieved.
 
 
