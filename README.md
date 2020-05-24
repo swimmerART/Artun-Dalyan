@@ -29,7 +29,7 @@ used least squares to optimize the performance of the motors.
 Voice-detection and word-classification for the voice control feature are done using PCA and SVD methods.
 
 ### BearMaps
-Developed the back-end of a mapping application of Berkeley using Java, Apache Maven, and images downloa- ded from OpenStreetMap.
+Developed the back-end of a mapping application of Berkeley using Java, Apache Maven, and images downloaded from OpenStreetMap.
 Created a quad tree to filter through thousands of images and raster the appropriate ones into the front end. It can handle features such as moving the screen by dragging, zooming in/out, and double clicking two points to find the shortest path.
 Employed A* (A star) algorithm using a priority queue to find the shortest path between two given points.
 
