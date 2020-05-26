@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Coursework
-permalink: /Coursework
+permalink: Artun-Dalyan/Coursework
 ---
 + Basket Weaving
 + Cooking
