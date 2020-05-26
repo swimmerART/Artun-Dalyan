@@ -12,6 +12,9 @@ My name is Artun Dalyan. I have graduated from UC Berkeley in EECS major. During
 ### Analog Design for a Microprocessor
 Designing all analog components including 8 bit successive-approximation analog to digital converter (ADC), programmable gain switched capacitor pre-amplifier (PGA), bandgap voltage reference and Temperature sensor (BGT), Analog multiplexer (MUX) and Analog and digital voltage regulators (AREG, DREG) with a team of three.
 
+### [EMG Based Control for Hand Prostheses](https://minabeshay.github.io/sEMGProjectWebsite)
+This project aims to develop a pre-processing procedure to better actuate a prosthetic arm using muscle signals from the forearm of a patient with the use of Surface Electromyography (sEMG) sensors. Actuation signals are recorded for two motions: Open Palm and Closed Fist. Applying discrete wavelet transform on the signals, features are extracted and classified using skLearn classifiers. The signals are classified according to motion type and sample test data is used to predict the motion according to the processed signal data. The results show that it is possible to improve identification accuracy of motions from arm muscle signals.
+
 ### CPU Design on FPGA
 Designing a 3-stage pipelined RISC-V CPU with a UART for tethering on Xilinx Pynq platform. On top of this CPU, audio synthesizer is implemented with PWM Controller, FIFO and a simple polyphonic subtractive synthe- sizer with amplitude (ADSR) envelopes.
 
