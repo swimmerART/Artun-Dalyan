@@ -7,7 +7,7 @@ My name is Artun Dalyan. I have graduated from UC Berkeley in EECS major. During
 
 
 
-## Projects
+## Engineering Projects
 
 ### EECS Undergraduate Research 
 I am designing a Time-to-Digital Converter Architecture for an ion analyzer with picosecond resolution using a 0.18um technology that will be used in a satellite. This is an ongoing project to achieve picosecond resolution for a time-of-flight chip.
